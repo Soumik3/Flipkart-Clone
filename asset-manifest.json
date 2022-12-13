@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Flipkart-Clone/static/css/main.bffdd071.css",
+    "main.js": "/Flipkart-Clone/static/js/main.b179b825.js",
+    "static/media/banner3.png": "/Flipkart-Clone/static/media/banner3.7040ad0d47518e9c1f2f.png",
+    "static/media/banner2.png": "/Flipkart-Clone/static/media/banner2.a012eba4dddba6aa1bc9.png",
+    "static/media/rightcard.png": "/Flipkart-Clone/static/media/rightcard.27e14e71a775f8606dcc.png",
+    "static/media/item3.png": "/Flipkart-Clone/static/media/item3.9544103f924f3066531c.png",
+    "static/media/item1.png": "/Flipkart-Clone/static/media/item1.dc32070acbbdbdc07dc1.png",
+    "static/media/item9.png": "/Flipkart-Clone/static/media/item9.057d2275457af97de570.png",
+    "static/media/item10.png": "/Flipkart-Clone/static/media/item10.552645a7fc3782bf2be9.png",
+    "index.html": "/Flipkart-Clone/index.html",
+    "main.bffdd071.css.map": "/Flipkart-Clone/static/css/main.bffdd071.css.map",
+    "main.b179b825.js.map": "/Flipkart-Clone/static/js/main.b179b825.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bffdd071.css",
+    "static/js/main.b179b825.js"
+  ]
+}
