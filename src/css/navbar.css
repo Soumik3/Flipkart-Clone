@@ -1,0 +1,88 @@
+:root {
+  --main-bg-color: #2874f0;
+}
+
+nav {
+  display: flex;
+  background-color: var(--main-bg-color);
+  justify-content: stretch;
+  height: 56px;
+}
+.nav1 {
+  margin-left: 195px;
+  display: flex;
+  flex-direction: column;
+}
+.logo img {
+  width: 78px;
+  padding-top: 10px;
+}
+.content {
+  display: flex;
+  margin-top: -4px;
+  margin-bottom: 14px;
+}
+.content img {
+  width: 9px;
+  height: 9px;
+  margin-left: 2px;
+  margin-top: 4px;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+}
+
+#fonta1 {
+  font-size: 17.5px;;
+  margin-left: -33px;
+  color: #2874f0;
+}
+.search input {
+  width: 563px;
+  height: 36px;
+  border: 2px solid white;
+  border-radius: 2px;
+  margin-left: 13px;
+  padding-left: 14px;
+  font-size: 13.5px;
+}
+.buttons{
+  display: flex;
+  margin-top: 14px;
+}
+.btn1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 10vw;
+  margin-left: 45px;
+  margin-top: 1px;
+}
+.btn1 p {
+  background-color: white;
+  color: var(--main-bg-color);
+  padding: 4.5px 40px;
+  font-weight: 500;
+}
+.btn2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding-left: 15px;
+  font-weight: 500;
+  margin-right: 6.5px;
+}
+.btn2 p {
+  
+  margin-left: 13px;
+  margin-right: 6px;
+  font-size: 15.5px;
+  font-family: 600;
+}
+
+.btn2 i {
+  margin-top: -12px;
+}
